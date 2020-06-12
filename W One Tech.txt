@@ -1,0 +1,152 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="lt-ie10 lt-ie9 no-js" prefix="og: https://ogp.me/ns#" lang="pt-br"><![endif]--><!--[if IE 9]><html class="lt-ie10 no-js" prefix="og: https://ogp.me/ns#" lang="pt-br"><![endif]--><!--[if gt IE 9]><!--><html class="no-js" prefix="og: https://ogp.me/ns#" lang="pt-br"><!--<![endif]--><head><meta charset="utf-8"><link rel="shortcut icon" href="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1jd/1jdr8n.ico?ph=8d5b24d3b4"><link rel="apple-touch-icon" href="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1jd/1jdr8n.ico?ph=8d5b24d3b4"><link rel="icon" href="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1jd/1jdr8n.ico?ph=8d5b24d3b4"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>W One Tech</title><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="msapplication-tap-highlight" content="no"><link href="https://d1di2lzuh97fh2.cloudfront.net/files/3f/3fj/3fjucf.css?ph=8d5b24d3b4" rel="stylesheet"><link href="https://d1di2lzuh97fh2.cloudfront.net/files/2r/2rf/2rf8hy.css?ph=8d5b24d3b4" rel="stylesheet"><link rel="stylesheet" href="https://d1di2lzuh97fh2.cloudfront.net/files/06/06i/06iwbt.css?ph=8d5b24d3b4" data-wnd_color_scheme_file=""><link rel="stylesheet" href="https://d1di2lzuh97fh2.cloudfront.net/files/42/42e/42e5o5.css?ph=8d5b24d3b4" data-wnd_additive_color_file=""><link rel="stylesheet" href="https://d1di2lzuh97fh2.cloudfront.net/files/16/16w/16wjud.css?ph=8d5b24d3b4" data-wnd_typography_file=""><meta name="description" content="Site criado a partir de uma ideia própria, com intuito de promover serviços tecnológicos."><meta name="keywords" content=""><meta name="generator" content="Webnode 2"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="format-detection" content="telephone=no">
+
+<meta property="og:url" content="https://wonetech.com/"><meta property="og:title" content="W One Tech"><meta property="og:type" content="article"><meta property="og:description" content="Site criado a partir de uma ideia própria, com intuito de promover serviços tecnológicos."><meta property="og:site_name" content="W One Tech"><meta property="og:image" content="https://wonetechcom/_files/200000000-063be063c1/700/w one.jpg"><meta property="og:article:published_time" content="2020-06-03T00:00:00+0200"><meta name="robots" content="index,follow"><link rel="canonical" href="https://wonetech.com/"><script>window.checkAndChangeSvgColor=function(c){try{var a=document.getElementById(c);if(a){c=[["border","borderColor"],["outline","outlineColor"],["color","color"]];for(var h,b,d,f=[],e=0,m=c.length;e<m;e++)if(h=window.getComputedStyle(a)[c[e][1]].replace(/\s/g,"").match(/^rgb[a]?\(([0-9]{1,3}),([0-9]{1,3}),([0-9]{1,3})/i)){b="";for(var g=1;3>=g;g++)b+=("0"+parseInt(h[g],10).toString(16)).slice(-2);"0"===b.charAt(0)&&(d=parseInt(b.substr(0,2),16),d=Math.max(16,d),b=d.toString(16)+b.slice(-4));f.push(c[e][0]+"="+b)}if(f.length){var k=a.getAttribute("data-src"),l=k+(0>k.indexOf("?")?"?":"&")+f.join("&");a.src!=l&&(a.src=l,a.outerHTML=a.outerHTML)}}}catch(n){}};</script><link rel="stylesheet" href="https://use.typekit.net/lab8xti.css"><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-797705-6', 'auto',{"name":"wnd_header"});ga('wnd_header.set', 'dimension1', 'W2');ga('wnd_header.set', 'anonymizeIp', true);ga('wnd_header.send', 'pageview');</script></head><body class="l l-02 layout-02 c-s-n wt-home ac-h ac-i   b-btn-sq b-btn-s-l b-btn-dn b-btn-bw-1 img-d-n img-t-o img-h-z line-solid b-e-c b-e-sbs lbox-d c-s-n  wnd-fe"><!--googleoff: all--><div id="wnd_cookie_bar" style="display: none;"><style type="text/css">#wnd_cookie_bar {width: 100%; background-color: #1e1e1e; color: #828282; font-family: Arial, Roboto, Helvetica, sans-serif; font-weight: normal; font-style: normal; font-size: 14px; line-height: 16px; letter-spacing: 0; text-align: left; position: relative; z-index: 10;}#wnd_cookie_bar_text {padding: 15px 46px 15px 20px;}#wnd_cookie_bar_text a {-webkit-transition: color .2s, text-decoration .2s; transition: color .2s, text-decoration .2s; color: #9E9E9E; text-decoration: underline;}#wnd_cookie_bar_text a:hover {color: #BDBDBD;}#wnd_cookie_bar_close {float: right; width: 46px; height: 46px; display: inline-block; overflow: hidden; text-indent: -999em; top: 0; right: 0; position: absolute; cursor: pointer;}#wnd_cookie_bar_close:before {content: ''; cursor: pointer; width: 14px; height: 1px; display: block; background-color: #9E9E9E; position: absolute; top: 23px; left: 12px; -webkit-transition: background-color .2s; transition: background-color .2s; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg);}#wnd_cookie_bar_close:after {content: ''; cursor: pointer; width: 14px; height: 1px; display: block; background-color: #9E9E9E; position: absolute; top: 23px; left: 12px; -webkit-transition: background-color .2s; transition: background-color .2s; -webkit-transform: rotate(-45deg); -ms-transform: rotate(-45deg); transform: rotate(-45deg);}#wnd_cookie_bar_close:hover:before {background-color: #e4e4e4;}#wnd_cookie_bar_close:hover:after {background-color: #e4e4e4;}@media print {#wnd_cookie_bar style {display: none !important;}}</style><div id="wnd_cookie_bar_text">Este site usa cookies para fornecer a funcionalidade segura do site e para melhorar a sua experiência. Ao utilizar o nosso site, você concorda com a nossa política de privacidade.</div><a id="wnd_cookie_bar_close" href="#">Close</a></div><!--googleon: all-->
+	<div class="wnd-page cs-gray ac-none">
+
+		<div id="wrapper" class="l-w cf t-36">
+
+			<header id="header" class="l-h cf"><div id="layout-section" class="s section header header-01 fullscreen-all claim-section cf design-27 sc-m wnd-background-image">
+					<div class="section-fixed wnd-fixed">
+						<div class="section-inner">
+							<div class="nav-line initial-state cf">
+
+								<div class="logo logo-default brandon-grotesque wnd-logo-with-text">
+    <div class="logo-content">
+        
+            
+            
+	        <div class="text-content-outer">
+                <span class="text-content"><strong>Welberty Thauan</strong></span>
+	        </div>
+        
+    </div>
+</div>
+
+								
+
+								<nav id="menu" role="navigation"><div class="menu-font">
+	<a href="#" class="close-menu" rel="nofollow">
+		<span>Close Menu</span>
+	</a>
+	<ul class="level-1"><li class="wnd-active   wnd-homepage">
+			<a class="menu-item" href="/home/"><span class="menu-item-text">Início</span></a>
+			
+		</li><li>
+			<a class="menu-item" href="/bigrafia/"><span class="menu-item-text">Sobre Nós</span></a>
+			
+		</li><li>
+			<a class="menu-item" href="/contato/"><span class="menu-item-text">Contato</span></a>
+			
+		</li>
+	</ul><span class="more-text">Mais</span>
+</div></nav><script type="application/javascript">var el=document.getElementById("menu");"undefined"!=typeof el&&(el.style.display="none")</script><div id="menu-mobile" class="hidden">
+									<a href="#" id="menu-submit"><span></span>Menu</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</header><main id="main" class="l-m cf" role="main">
+
+				<div class="section-wrapper cf">
+	<div class="section-wrapper-content cf"><div class="s section header header-01 fullscreen-all claim-section cf design-27 sc-m wnd-background-image">
+	<div class="section-bg">
+		<div class="section-bg-layer wnd-background-image fx-none bgpos-top-center bgatt-scroll" style="background-image:url('https://w-one-tech1.webnode.com/_files/200000000-063be063c1/450/w one.jpg')">
+			
+		</div>
+		<div class="section-bg-layer section-bg-overlay overlay-black"></div>
+	</div>
+	<div class="section-inner section-claim fullscreen-all">
+		<div class="claim-content cf">
+			<div class="header-claim cf">
+				<h1>
+					<div class="big-claim auto-font-size cf"><span class="styled-inline-text claim-default brandon-grotesque">
+	<span><span><strong>W One Tech</strong></span></span>
+</span></div>
+					<div class="small-claim cf"><span class="styled-inline-text claim-default wnd-font-size-20 brandon-grotesque">
+	<span><span>Tecnologia Digital!</span></span>
+</span></div>
+				</h1>
+			</div>
+		</div>
+	</div>
+</div><section class="s section default-01 design-03 sc-m wnd-background-image"><div class="section-bg s-bg">
+		<div class="section-bg-layer wnd-background-image fx-none bgpos-top-center bgatt-scroll" style="background-image:url('https://w-one-tech1.webnode.com/_files/200000001-2c1e02c1e2/450/Screenshot_1425.png')">
+			
+		</div>
+		<div class="section-bg-layer section-bg-overlay overlay-black"></div>
+	</div>
+	<div class="section-inner">
+		<div class="content ez cf wnd-no-cols">
+	<div class="ez-c">
+		<div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 cf"><h1 style="text-align:left"><font style="font-size:70%">Sobre a W One Tech</font></h1>
+
+<p style="text-align:left">Site criado a partir de uma ideia própria, com intuito de promover serviços tecnológicos.</p><p style="text-align:left">&nbsp;Não temos empresa física, somos apenas um projeto de um sonhador.&nbsp; &nbsp;</p>
+</div>
+</div>
+	</div>
+	
+</div>
+	</div>
+</section><section class="s section default-01 design-03 sc-m wnd-background-image"><div class="section-bg s-bg">
+		<div class="section-bg-layer wnd-background-image fx-none bgpos-top-center bgatt-scroll" style="background-image:url('https://w-one-tech1.webnode.com/_files/200000002-80a9e80aa0/450/82025.jpg')">
+			
+		</div>
+		<div class="section-bg-layer section-bg-overlay overlay-black"></div>
+	</div>
+	<div class="section-inner">
+		<div class="content ez cf wnd-no-cols">
+	<div class="ez-c">
+		<div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 cf"><h1>Welberty Thauan</h1>
+
+<p style="text-align:center"><font style="font-size:90%">Welberty Thauan é o nome do criador do projeto, ele é programador python, sem experiências trabalhando para empresas de tecnologia da proramação.</font></p>
+</div>
+</div>
+	</div>
+	
+</div>
+	</div>
+</section></div>
+</div>
+
+			</main><footer id="footer" class="l-f cf">
+
+				<div class="section-wrapper cf">
+	<div class="section-wrapper-content cf"><div wn-border="top" wn-border-element="footer-line" class="s section footer-01 footer-font design-01 sc-m wnd-background-image">
+	<div class="section-bg s-bg">
+		<div class="section-bg-layer wnd-background-image fx-none bgpos-top-center bgatt-scroll" style="background-image:url('https://w-one-tech1.webnode.com/_files/200000003-023b6023b8/450/73080.jpg')">
+			
+		</div>
+		<div class="section-bg-layer section-bg-overlay overlay-black"></div>
+	</div>
+	<div class="section-inner">
+		<div class="footer-line">
+			<div class="footer-texts">
+				<div class="copyright cf"><span class="inline-text">
+	<span>Welberty Thauan /&nbsp;Dev /&nbsp;Todos os direitos reservados</span>
+</span></div>
+				<div class="system-footer cf"><div class="sf">
+<div class="text-content">Desenvolvido por <a href="Welberty thauan" rel="nofollow" target="_blank">Welberty</a></div>
+</div></div>
+			</div>
+
+			<div class="lang-select cf">
+	
+</div>
+
+		</div>
+	</div>
+</div></div>
+</div>
+
+			</footer></div>
+
+	</div>
